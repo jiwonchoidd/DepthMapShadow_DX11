@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KDepthShadow">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgAAAAAAAAAQCAAAAAABBCAAAAAAIAABAAAAE=</HashCode>
+      <FileName>KDepthShadow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KLight">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAGoAAAAAAACAABBAAAAQAAAAAAQAACAjCAgAAABAE=</HashCode>
+      <FileName>KLight.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KMiniMap">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACAAAAAAAAAAAAAAAAAAAAAAAEAAAAABACABAEAAA=</HashCode>
+      <FileName>KMiniMap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sample">
+    <Position X="0.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAABACABAAAAE=</HashCode>
+      <FileName>Sample.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KSceneManager" Collapsed="true">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="KSceneManager::SceneID" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>KSceneManager.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAACAAAIAAAAAQAAAAAAAAACBCCCBACAAE=</HashCode>
+      <FileName>KSceneManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KScene_01">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAgQAAAAAAAAAAAAAAAAAAIAQAgGAAgBACIBAAAAE=</HashCode>
+      <FileName>KScene_01.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KFBXAsset" Collapsed="true">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAgAAgAAAAAAAAgAAAAAAQEAACgAQAAABADABAAAAE=</HashCode>
+      <FileName>KFBXAsset.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KFbxLoader" Collapsed="true">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgCAgQAIEBBxAGAAAAAAIAgAYABQAAAAARBCABEggAE=</HashCode>
+      <FileName>KFbxLoader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KFBXManager" Collapsed="true">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAADAAAAAAAAAAAABAABAAAA=</HashCode>
+      <FileName>KFBXManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KFBXObj" Collapsed="true">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIkCAgAAAAIAAAEAgQEUIAAAACEBAUAAA1AAABAGAFI=</HashCode>
+      <FileName>KFBXObj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="cbDataShadow" Collapsed="true">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KDepthShadow.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
